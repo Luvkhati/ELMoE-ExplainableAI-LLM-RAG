@@ -11,16 +11,12 @@ The framework compares:
 
 All comparisons are done in a structured and repeatable way.
 
-
-
 ## Motivation
 
 Machine Learning models often work well but are hard to explain. LLMs have strong reasoning and language abilities, but their reliability on structured ML tasks is still unclear. This project helps study:
 - Whether LLM explanations align with ML model behavior  
 - How consistent LLM predictions are compared to ML models  
 - How LLM-based explanations compare with classical methods like LIME and DiCE  
-
----
 
 ## How the Framework Works
 
@@ -35,8 +31,6 @@ Machine Learning models often work well but are hard to explain. LLMs have stron
 6. All outputs are evaluated and compared using selected metrics.  
 7. Results, prompts, and plots are saved for analysis.
 
----
-
 ## Key Features
 
 - Supports **regression and classification** tasks  
@@ -45,8 +39,6 @@ Machine Learning models often work well but are hard to explain. LLMs have stron
 - Includes baseline methods such as **LIME** and **DiCE**  
 - Fully **config-driven** using a YAML file  
 - Automatic evaluation, logging, and visualization  
-
----
 
 ## Project Structure
 
