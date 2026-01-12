@@ -1,4 +1,4 @@
-# llm-ml-rag-evaluation
+# LLM-ML-RAG-Evaluation
 
 
 This project is a framework that evaluates how **Large Language Models (LLMs)** perform when they are used to predict, explain, and generate counterfactuals for traditional **Machine Learning (ML) models**. The main goal is to understand whether LLMs can reliably interpret ML model behavior when they are given proper data context.
